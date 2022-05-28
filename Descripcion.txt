@@ -1,0 +1,5 @@
+Lo que aprendimos en esta aula:
+
+Design responsivo: Cómo ajustar el estilo de nuestra página según el tamaño de pantalla del dispositivo que acceda.
+Meta etiqueta de Viewport.
+Media Queries.
