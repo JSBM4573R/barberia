@@ -55,10 +55,12 @@ nav a:hover{
     box-sizing: border-box;
     border: 2px solid #000000;
     border-radius: 10px;
+    transition: .3s all ease;
 }
 
 .productos li:hover{
     border-color:#c78c19;
+    transition: .3s;
 }
 
 .productos li:active{
@@ -71,11 +73,13 @@ nav a:hover{
 }
 
 .productos li:hover h2{
-    font-size: 33px;
+    font-size: 31px;
+    transition: .3s;
 }
 
 .producto-descripcion{
     font-size: 18px;
+    transition: .3s;
 }
 
 .producto-precio{
